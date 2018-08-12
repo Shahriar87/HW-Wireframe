@@ -12,6 +12,7 @@ body {
     And also we can use percentage width for #header, footer and nav selector   */
     width: 960px;
     font-size: 18px;
+    margin-left: 13%;
     
 }
 
@@ -22,7 +23,7 @@ body {
     width: 900px;
     margin-top:10px;
     margin-bottom: 10px;
-    margin-left: 15%;
+    /*margin-left: 15%;*/
       
 }
 
@@ -32,12 +33,12 @@ footer{
     clear: both;
     /*width: 60%;*/
     width: 900px;
-    margin-left: 15%;
+    /*margin-left: 15%;*/
 }
 
 div{
     width: 100%;
-    margin-left: 15%;
+    /*margin-left: 15%;*/
     
 }
 
@@ -47,7 +48,7 @@ nav {
     margin-bottom: 20px;
     /*width: 60%;*/
     width: 900px;
-    margin-left: 15%;
+    /*margin-left: 15%;*/
 }
 
 section{
@@ -67,6 +68,7 @@ aside{
     /*width: 22%;*/
     height: 40%;
     padding: 20px;
+    padding-bottom: 262px;
     background: #ebebeb;
     margin-bottom: 20px;
     margin-left: 20px;
@@ -96,9 +98,3 @@ p {
     margin-bottom: 0;
     
 }
-
-
-
-
-
-
